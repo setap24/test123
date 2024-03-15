@@ -1,3 +1,4 @@
-class mathmanager:
-  def add(self, a, b):
-    return a+b
+class helloworld:
+
+  def main():
+    print("Hello World!")
