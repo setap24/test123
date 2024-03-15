@@ -1,4 +1,2 @@
-class helloworld:
-
-  def main():
+  def test():
     print("Hello World!")
